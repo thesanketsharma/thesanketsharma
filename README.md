@@ -9,7 +9,7 @@ I employ advanced scientific techniques and statistical methodologies to unlock 
 ##### 2. Machine Learning
 I specialize in developing sophisticated predictive machine learning models that effectively address complex business challenges, including Fraud Detection, Anti Money Laundering, and Price Predictions.
 
-#### 3. Python Automation:
+##### 3. Python Automation:
 I have expertize in creating custom automated reporting solutions with Python, SQL, and bash scripts to enhance operational efficiency, minimize manual effort, and achieve substantial time savings for businesses.
 
 
