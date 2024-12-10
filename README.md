@@ -14,4 +14,4 @@ I have expertize in creating custom automated reporting solutions with Python, S
 
 
 #### Reach out to me at
-email: ur.sanketsharma@gmail.com, thesanketsharma@gmail.com
+email: sanketsrsharma@gmail.com, thesanketsharma@gmail.com
