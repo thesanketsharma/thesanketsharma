@@ -1,6 +1,6 @@
 ### Hi. I'm Sanket Sharma.
 #### Data Scientist and a Python Programmer
-With extensive expertise in advanced Data Science techniques, I strive to enhance performance, enable informed decision-making, and optimize spending. Skilled in machine learning, statistical analysis, and programming languages like Python, SQL, and bash, I provide customized solutions that surpass client expectations. Checkout my resume: https://drive.google.com/file/d/1pXpPabhQ2tolXNj-77nGUTv9iveY8VcX/view
+With extensive expertise in advanced Data Science techniques, I strive to enhance performance, enable informed decision-making, and optimize spending. Skilled in machine learning, statistical analysis, and programming languages like Python, SQL, and bash, I provide customized solutions that surpass client expectations. Checkout my resume: [https://drive.google.com/file/d/1pXpPabhQ2tolXNj-77nGUTv9iveY8VcX/view](https://drive.google.com/file/d/1pU6t1YofvhkSNC59jfI1ZvAD874QAred/view?usp=drive_link)
 
 #### Here's all the stuff I do
 ##### 1. Data Analytics 
